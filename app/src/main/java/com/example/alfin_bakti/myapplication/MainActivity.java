@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
     RadioGroup radioGroup;
     int h1, bt, ti;
     String temp;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
