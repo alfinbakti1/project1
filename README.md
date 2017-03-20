@@ -1,3 +1,3 @@
 # project1
-  Alfin Bakti M
-  XITKJ4
+Alfin Bakti M
+XITKJ4
