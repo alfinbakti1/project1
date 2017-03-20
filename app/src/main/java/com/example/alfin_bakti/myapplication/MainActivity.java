@@ -36,8 +36,8 @@ public class MainActivity extends AppCompatActivity {
         radioGroup = (RadioGroup) findViewById(R.id.radioGroup);
 
         btncek.setOnClickListener(new View.OnClickListener() {
-            @Overpublic
-            void onClick(View v) {
+            @Override
+            public void onClick(View v) {
                 proses();
             }
 
